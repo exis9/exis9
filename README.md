@@ -12,4 +12,4 @@ If you have anything to ask, please feel free to let me know!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exis9&langs_count=10&theme=dark&hide_border=1&border_radius=8)](https://github.com/exis9/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=exis9&repo=github-readme-stats)](https://github.com/exis9/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=exis9&repo=sQuery)](https://github.com/exis9/sQuery)
