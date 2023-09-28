@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm Exis desu☆</h1>
 <br><br><br>
+I made this OS recently:
+[![VisiOS](https://img.youtube.com/vi/9KewhutQveA/0.jpg)](https://www.youtube.com/watch?v=9KewhutQveA)
 
+I also made this 9.5kb modern jQuery alternative:
 [![sQuery](https://i.imgur.com/Jvp6tSW.jpg)](https://github.com/exis9/sQuery)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=exis9&repo=sQuery)](https://github.com/exis9/sQuery)
 
