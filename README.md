@@ -12,9 +12,14 @@ https://beta-japan.com
 
 [![VisiOS](https://img.youtube.com/vi/9KewhutQveA/0.jpg)](https://www.youtube.com/watch?v=9KewhutQveA)
 
+
+<br><br>
+I made a 10MB media player that can display 3 .srt subs at the same time!
+RX-01 Player: [https://rx-01.vercel.app/](https://rx-01.vercel.app/)
+
 <br><br>
 I made a WinAuth alternative 2FA app for Mac, too!
-NyanFA: https://github.com/exis9/Nyan-FA
+NyanFA: [https://github.com/exis9/Nyan-FA](https://github.com/exis9/Nyan-FA)
 
 <br><br>
 I also made this 9.5kb modern jQuery alternative:
