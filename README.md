@@ -22,7 +22,7 @@ I made a WinAuth alternative 2FA app for Mac, too!
 NyanFA: [https://github.com/exis9/Nyan-FA](https://github.com/exis9/Nyan-FA)
 
 <br><br>
-I also made this 9.5kb modern jQuery alternative:
+In 2021, I also made this 9.5kb modern jQuery alternative:
 [![sQuery](https://i.imgur.com/Jvp6tSW.jpg)](https://github.com/exis9/sQuery)
 
 If you have anything to ask, please feel free to let me know!
