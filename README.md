@@ -6,7 +6,7 @@ Twitter(ENG): https://x.com/ExisVR
 
 Twitter(JPN): https://x.com/ExisJP
 <br><br><br>
-In 2023, I made VisiOS that runs on your browser as an extension (Click to open):
+In 2023, I released VisiOS that runs on your browser as an extension (Click to open):
 
 https://beta-japan.com
 
