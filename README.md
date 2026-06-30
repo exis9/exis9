@@ -1,10 +1,8 @@
 <h1 align="center">I'm Exis desu☆ 🌙</h1>
 
-Website: https://beta-japan.com/exis
+[🏡 My Website](https://beta-japan.com/exis) 
 
-Twitter(ENG): https://x.com/ExisVR
-
-Twitter(JPN): https://x.com/ExisJP
+[Twitter (ENG)](https://x.com/ExisVR) | [Twitter (JPN)](https://x.com/ExisJP)
 <br><br><br>
 In 2023, I released VisiOS that runs on your browser as an extension (Click to open):
 
@@ -12,14 +10,16 @@ https://beta-japan.com
 
 [![VisiOS](https://img.youtube.com/vi/9KewhutQveA/0.jpg)](https://www.youtube.com/watch?v=9KewhutQveA)
 
+<br><br>
+In 2024, I launched [Nyan-8](https://nyan-8.com/), a language exchange site like Lang-8!
 
 <br><br>
 In 2025, I made a 10MB media player that can display 3 .srt subs at the same time!
-RX-01 Player: [https://rx-01.vercel.app/](https://rx-01.vercel.app/)
+[RX-01 Player](https://rx-01.vercel.app/)
 
 <br><br>
 In 2024, I made a WinAuth alternative 2FA app for Mac, too!
-NyanFA: [https://github.com/exis9/Nyan-FA](https://github.com/exis9/Nyan-FA)
+[NyanFA](https://github.com/exis9/Nyan-FA)
 
 <br><br>
 In 2021, I also made this 9.5kb modern jQuery alternative:
