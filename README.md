@@ -4,7 +4,7 @@
 
 [Twitter (ENG)](https://x.com/ExisVR) | [Twitter (JPN)](https://x.com/ExisJP)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=39D353&center=true&vCenter=true&width=660&height=42&lines=Exis+creates+various+cool+projects;and+he+loves+cats;" alt="Exis loves cats">
+<a href="https://beta-japan.com/exis" target=_blank><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=39D353&center=true&vCenter=true&width=660&height=42&lines=Exis+creates+various+cool+projects;and+he+loves+cats;" alt="Exis loves cats"></a>
 
 <br><br>
 ---
