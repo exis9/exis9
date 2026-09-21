@@ -29,7 +29,6 @@ In 2026, I made an offline app that you can make your own Youtube using your loc
 [Localhub](https://beta-japan.com/exis/p/localhub/)
 
 <br><br>
-
 In 2026, I made a 3MB Adobe After Effects like video capture/edit tool!
 [Kirivid](https://beta-japan.com/exis/p/kirivid/)
 
