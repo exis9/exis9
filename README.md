@@ -27,7 +27,7 @@ In 2024, I launched [Nyan-8](https://nyan-8.com/), a language exchange site like
 
 In 2026, I made an offline app that you can make your own Youtube using your local video directories!
 [Localhub](https://beta-japan.com/exis/p/localhub/)
-(This is a remake version of my 2021 app named LocalTube)
+<br><small>(This is a remake of my 2021 work named LocalTube)</small>
 
 <br><br>
 In 2026, I made a 3MB Adobe After Effects like video capture/edit tool!
